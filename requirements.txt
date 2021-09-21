@@ -64,7 +64,7 @@ pyquery==1.4.3
 pyrsistent==0.18.0
 python-dateutil==2.8.2
 pytz==2021.1
-pywin32==301
+#pywin32==301
 pywinpty==1.1.4
 PyYAML==5.4.1
 pyzmq==22.3.0
@@ -76,7 +76,7 @@ sgmllib3k==1.0.0
 six==1.16.0
 sniffio==1.2.0
 soupsieve==2.2.1
-terminado==0.12.1
+#terminado==0.12.1
 testpath==0.5.0
 tornado==6.1
 tqdm==4.62.3
